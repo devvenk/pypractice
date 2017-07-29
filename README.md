@@ -1,0 +1,2 @@
+# pypractice
+python practice scripts
