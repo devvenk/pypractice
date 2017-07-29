@@ -17,6 +17,7 @@ mlist = ['a','b','c','d']
 mlist1 = ['x','y','z']
 
 def main():
+    print 'Invoked from Jenkins'
     try:
         cartisian_product(mlist, mlist1)
     except Exception as e:
