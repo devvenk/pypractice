@@ -1,3 +1,4 @@
+# sample
 def cartisian_product(mlist1, mlist2):
     try:
         if not isinstance(mlist1, list) or not isinstance(mlist2, list):
